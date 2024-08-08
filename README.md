@@ -2,7 +2,7 @@ Hei, thank you for start reading my bio! My name is Fabio, but most people call 
 
 I do things that don't exist yet, because I'm a researcher and developer. Some of them may seem easy, but I like the challenges of the more difficult ones that involve mechanics, hydraulics, batteries, electronics and software. (If it's rewarding enough ($$) I can even make it fly).
 
-My skills came from the necessary hacking of everyday life, a degree in Computer Engineering and a few years working at the Photonics Department at Unicamp.
+My skills came from the necessary hacking of everyday life, a degree in Computer Engineering and a few years working at the Photonics Department at Unicamp (University of Campinas).
 
 I've already made a Time Machine embedded in an original 1981 Delorean that is considered the best in my country (Brazil).
 
